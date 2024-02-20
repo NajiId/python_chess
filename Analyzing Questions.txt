@@ -1,0 +1,8 @@
+Who had the highest ELO? In which year?
+What's the average of the top 20 ELOs?
+What's the time trend for the average ELO?
+What's the time trend of each player's ELO?
+What's the minimum ELO of a player who ever appeared in top 20 ELOs? Who is this?
+What's the average age of the players who were in the top 20 ELOs? What's the time trend for the average age?
+Who appeared most times in the top 20 ELOs?
+What's the average age of peak performance of top 10 players?
